@@ -1,6 +1,6 @@
-# HQPlayer 4 Embedded docker
+# HQPlayer 5 Embedded docker
 
-https://hub.docker.com/repository/docker/jarutis/hqplayer
+https://github.com/NoaHimesaka1873/hqplayer-docker5/pkgs/container/hqplayer5
 
 Initial user/pass is hqplayer/hqplayer.
 
