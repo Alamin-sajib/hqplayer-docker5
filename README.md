@@ -4,6 +4,6 @@ https://github.com/NoaHimesaka1873/hqplayer-docker5/pkgs/container/hqplayer5
 
 Initial user/pass is hqplayer/hqplayer.
 
-**WARNING**: You **MUST** pas `/dev/bus/usb` to the container or else HQPlayer will segfault.
+**WARNING**: You **MUST** pass through `/dev/bus/usb` to the container or else HQPlayer will segfault.
 
 Based on https://github.com/lovesegfault/hqplayerd-docker and https://audiophilestyle.com/forums/topic/63747-how-to-install-hqplayer-embedded-on-ubuntu-2004/
