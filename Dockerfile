@@ -6,7 +6,7 @@ RUN wget -O /tmp/libgmpris.deb "https://www.sonarnerd.net/src/noble/${LIBGMPRIS}
 ################################################################################
 FROM alpine:latest as hqplayerd-fetcher
 RUN apk add --no-cache wget
-ENV HQPLAYERD_VERSION="5.10.1-31"
+ENV HQPLAYERD_VERSION="5.14.0-40"
 ENV HQPLAYERD="hqplayerd_${HQPLAYERD_VERSION}_amd64.deb"
 RUN wget -O /tmp/hqplayerd.deb "https://www.signalyst.eu/bins/hqplayerd/noble/${HQPLAYERD}"
 ################################################################################
